@@ -1,3 +1,3 @@
 # test-repo
 
-Ading Template Validation
+Ading Template Validation for testing the template. 
