@@ -1,10 +1,13 @@
 ## Work Item (GUS Ticket)
-Please Add GUS Ticket 
+Please Add GUS Ticket URL
 
 ## Description
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 
-## New Changes
+### What is being done?
+### Why is it being done?
+
+## New Changes (Better Heading)
 List the main changes made in this pull request:
 
 - [ ] Feature implementation
@@ -13,32 +16,21 @@ List the main changes made in this pull request:
 - [ ] Performance improvement
 - [ ] Documentation update
 - [ ] Other (please specify)
+- [ ] Unit tests
 
 ## Test Result:
-Please add results/observation of the Dev testing
+Please add results/observation of the Dev testing. (Attach Screenshots of Testing)
 
 Describe the testing strategy applied to validate the changes:
 
-- [ ] Unit tests added
+
+--------- Remove This section -----------------
+- [ ] Unit tests added - [Attach the local test result screenshot if applicable]
 - [ ] Integration tests added
 - [ ] Manual testing performed
 - [ ] Automated testing performed
 - [ ] Testing documentation updated
-
-## Dependencies
-List any dependencies that are introduced, updated, or removed:
-
-- Dependency 1
-- Dependency 2
-
-## Risks
-Identify any potential risks associated with this change:
-
-- [ ] Security risk
-- [ ] Performance degradation
-- [ ] Data loss
-- [ ] Compatibility issues
-- [ ] Other (please specify)
+--------- Remove This section -----------------
 
 ## Reviewer Notes
 Any specific notes or areas of concern you'd like the reviewer to focus on:
