@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Check for PR Template
         run: |
-          if [[ ! -f "${GITHUB_WORKSPACE}/.github/pull_request_template/template.md" ]]; then
+          if [[ ! -f "${GITHUB_WORKSPACE}/.github/pull_request_template.md" ]]; then
             echo "Please add a PR template."
             exit 1
           fi
