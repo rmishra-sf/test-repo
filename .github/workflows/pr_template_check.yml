@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check for PR Template
-        uses: actions/checkout@v2
-      - name: Check PR Template
         run: |
           if [[ ! -f "${GITHUB_WORKSPACE}/.github/pull_request_template/template.md" ]]; then
             echo "Please add a PR template."

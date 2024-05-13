@@ -4,7 +4,7 @@ Please Add GUS Ticket
 ## Description
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 
-## Changes
+## New Changes
 List the main changes made in this pull request:
 
 - [ ] Feature implementation
